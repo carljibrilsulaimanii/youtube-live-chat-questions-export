@@ -1,0 +1,7 @@
+﻿stream_time,offset_seconds,author,channel_id,message,is_staff,is_question,message_id
+0:00:45,45,Viewer One,UC_FAKE_CHANNEL_ID_0001,Send me the link please,False,False,FAKE_MESSAGE_ID_0001
+0:05:10,310,Host Team,UC_FAKE_CHANNEL_ID_0099,Got questions? Drop them in chat anytime,True,False,FAKE_MESSAGE_ID_0002
+0:12:03,723,Viewer Two,UC_FAKE_CHANNEL_ID_0002,How do I get the replay?,False,True,FAKE_MESSAGE_ID_0003
+0:12:40,760,Viewer Two,UC_FAKE_CHANNEL_ID_0002,How do I get the replay?,False,False,FAKE_MESSAGE_ID_0004
+0:15:22,922,Viewer Three,UC_FAKE_CHANNEL_ID_0003,what is the minimum to start,False,True,FAKE_MESSAGE_ID_0005
+0:20:05,1205,Viewer Three,UC_FAKE_CHANNEL_ID_0003,Thank you so much 🙏,False,False,FAKE_MESSAGE_ID_0006

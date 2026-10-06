@@ -1,0 +1,3 @@
+﻿stream_time,offset_seconds,author,channel_id,message,is_staff,is_question,message_id
+0:12:03,723,Viewer Two,UC_FAKE_CHANNEL_ID_0002,How do I get the replay?,False,True,FAKE_MESSAGE_ID_0003
+0:15:22,922,Viewer Three,UC_FAKE_CHANNEL_ID_0003,what is the minimum to start,False,True,FAKE_MESSAGE_ID_0005
